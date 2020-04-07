@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WhatICanMiss</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Calculate Minimum Score</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello world!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="minimum_desired_grade">Minimum Desired Grade (in %)</string>
+    <string name="what_can_i_miss">What Can I Miss?</string>
+    <string name="current_points_in_class">Current Points In Class</string>
+    <string name="total_class_points">Total Class Points</string>
+    <string name="upcoming_exam_points">Upcoming Exam Points</string>
+    <string name="result">RESULT</string>
+</resources>
